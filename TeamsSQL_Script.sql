@@ -1,0 +1,1 @@
+SELECT * FROM fantasy_hockey_projector.teams;
